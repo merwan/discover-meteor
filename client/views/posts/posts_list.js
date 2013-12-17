@@ -1,8 +1,8 @@
 var postsData =[
 {
-  title: 'Introducing Telescope',
-  author: 'Sacha Greif',
-  url: 'http://www.cnrs.fr/'
+  title: 'Google calendar',
+  author: 'Google calendar team',
+  url: 'http://www.google.com/calendar'
 },
 {
   title: 'Meteor',
